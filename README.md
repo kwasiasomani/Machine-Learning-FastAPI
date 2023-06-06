@@ -11,8 +11,8 @@ Sepsis occurs when chemicals released in the bloodstream to fight an infection t
 # Structure
 The directory contains app sub directories and a dataset for Sepsis :
 
-1. dev folder model contains the model used for predicting , wether a person is suffering from sepsis or not, 6 hours before the onset. It also contains the files for all the pre- processing done. 
-2. src folder conains the fastapi app, requirements and the dockerfiles with its dependencies.
+1. [dev] folder model contains the model used for predicting , wether a person is suffering from sepsis or not, 6 hours before the onset. It also contains the files for all the pre- processing done. 
+2. [src] folder conains the fastapi app, requirements and the dockerfiles with its dependencies.
 
 
 
