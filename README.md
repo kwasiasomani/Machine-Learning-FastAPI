@@ -39,7 +39,9 @@ The following dependencies can be found in [requirements.txt](https://github.com
 ### RandomForest along with other models is used to build the model. The model is tested on various other models. Details summary to be added soon.
 ### References
 
-#### 1. For Building machine learning model:
+#### 1. Machine learning model:
+![1](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/13f01032-551e-4be6-89e8-f318e32b5586)
+
 1. https://medium.com/themlblog/splitting-csv-into-train-and-test-data-1407a063dd74
 2. https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
 3. https://medium.com/@robert.salgado/multiclass-text-classification-from-start-to-finish-f616a8642538
