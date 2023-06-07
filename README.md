@@ -53,6 +53,8 @@ The following dependencies can be found in [requirements.txt](https://github.com
 ![2](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/b3d9b1a6-7976-4e85-886d-3b91af9ccc9d)
 ![1](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/dd4e04f4-0d1a-44d0-9e8c-82675444833f)
 
+#The model can be view on huggingface
+[Huggingface](https://huggingface.co/spaces/Kwasiasomani/Sepsis_Machine_Learning_API_using_FastAPI)
 
 
 
