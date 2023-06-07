@@ -48,7 +48,7 @@ The following dependencies can be found in [requirements.txt](https://github.com
 
 #### 2. Fastapi building and deployment
 ![1](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/175a1c0a-063e-4cc4-9b23-d9c05bc86f78)
-![2](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/8cb0a0ce-463e-46b9-ac70-ad0809cfa464)
+![2](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/b3d9b1a6-7976-4e85-886d-3b91af9ccc9d)
 ![1](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/dd4e04f4-0d1a-44d0-9e8c-82675444833f)
 
 
