@@ -51,3 +51,7 @@ The following dependencies can be found in [requirements.txt](https://github.com
 - [Video - Deploy ML models with FastAPI, Docker, and Heroku ](https://www.youtube.com/watch?v=h5wLuVDr0oc)
 - [FastAPI Tutorial Series](https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx)
 - [Http status codes](https://www.linkedin.com/feed/update/urn:li:activity:7017027658400063488?utm_source=share&utm_medium=member_desktop)
+
+- [KWASI ASOMANI](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/kwasi-asomani-61574920b/)
+[![My Twitter Link](https://img.shields.io/twitter/follow/Asomani18?style=social)](https://twitter.com/Asomani18)
+
