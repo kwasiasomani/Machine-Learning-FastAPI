@@ -1,4 +1,4 @@
-# Machine-Learning-FastAPI On Sepsis 
+# Machine-Learning-FastAPI Sepsis 
 
 The early prediction of sepsis is potentially life-saving, and we challenge participants to predict sepsis 6 hours before the clinical prediction of sepsis.
 ![image](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/759c16c6-3e29-466b-9ce1-4ca96594d713)
@@ -47,6 +47,14 @@ The following dependencies can be found in [requirements.txt](https://github.com
 5. https://www.districtdatalabs.com/text-analytics-with-yellowbrick
 
 #### 2. Fastapi building and deployment
+![1](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/175a1c0a-063e-4cc4-9b23-d9c05bc86f78)
+![2](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/8cb0a0ce-463e-46b9-ac70-ad0809cfa464)
+![1](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/dd4e04f4-0d1a-44d0-9e8c-82675444833f)
+
+
+
+
+
 - [FastAPI for Machine Learning: Live coding an ML web application](https://www.youtube.com/watch?v=_BZGtifh_gw)
 - [Video - Deploy ML models with FastAPI, Docker, and Heroku ](https://www.youtube.com/watch?v=h5wLuVDr0oc)
 - [FastAPI Tutorial Series](https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx)
