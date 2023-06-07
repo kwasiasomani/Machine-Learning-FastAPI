@@ -21,6 +21,10 @@ The directory contains app sub directories and a dataset for Sepsis :
   2. Clone the repository by entering `https://github.com/kwasiasomani/Machine-Learning-FastAPI`.
   3. Ensure that `Python3` and `pip` are installed on the system.
   4. Create a `virtualenv` by executing the following command: `virtualenv venv`.
-  5. Activate the `venv` virtual environment by executing the follwing command: `venv/Scripts/activate`.
-  6. Enter the cloned repository directory and execute `pip install -r requirements.txt`.
+  6. Activate the `venv` virtual environment by executing the follwing command: `venv/Scripts/activate`.
+  7. Enter the cloned repository directory and execute `pip install -r requirements.txt`.
 
+
+### Dependencies
+
+The following dependencies can be found in [requirements.txt](
