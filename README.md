@@ -18,9 +18,9 @@ The directory contains app sub directories and a dataset for Sepsis :
 ### How to run the project:
 
   1. Open the `Terminal`.
-  2. Clone the repository by entering `https://github.com/abhishek-parashar/sepsis-prediction`.
+  2. Clone the repository by entering `https://github.com/kwasiasomani/Machine-Learning-FastAPI`.
   3. Ensure that `Python3` and `pip` are installed on the system.
   4. Create a `virtualenv` by executing the following command: `virtualenv venv`.
-  5. Activate the `venv` virtual environment by executing the follwing command: `source venv/bin/activate`.
+  5. Activate the `venv` virtual environment by executing the follwing command: `venv/Scripts/activate`.
   6. Enter the cloned repository directory and execute `pip install -r requirements.txt`.
 
