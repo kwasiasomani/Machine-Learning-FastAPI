@@ -27,4 +27,6 @@ The directory contains app sub directories and a dataset for Sepsis :
 
 ### Dependencies
 
-The following dependencies can be found in [requirements.txt](
+The following dependencies can be found in [requirements.txt](https://github.com/kwasiasomani/Machine-Learning-FastAPI/blob/main/src/requirements.txt):
+1. [pandas](https://pandas.pydata.org/)
+2. [Fastapi](https://fastapi.tiangolo.com/lo/)
