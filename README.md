@@ -19,7 +19,7 @@ The directory contains app sub directories and a dataset for Sepsis :
 
  Install the required packages to be able to run the evaluation locally.
 
-You need to have [`Python 3`](https://www.python.org/) on your system (**a Python version lower than 3.10**). Then you can clone this repo and being at the repo's ``  follow the steps below:
+You need to have [`Python 3`](https://www.python.org/) on your system (**a Python version lower than 3.10**). Then you can clone this repo and being at the repo's `https://github.com/kwasiasomani/Machine-Learning-FastAPI/tree/main`  follow the steps below:
 
 - Windows:
         
@@ -46,3 +46,8 @@ The following dependencies can be found in [requirements.txt](https://github.com
 4. https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
 5. https://www.districtdatalabs.com/text-analytics-with-yellowbrick
 
+#### 2. Fastapi building and deployment
+- [FastAPI for Machine Learning: Live coding an ML web application](https://www.youtube.com/watch?v=_BZGtifh_gw)
+- [Video - Deploy ML models with FastAPI, Docker, and Heroku ](https://www.youtube.com/watch?v=h5wLuVDr0oc)
+- [FastAPI Tutorial Series](https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx)
+- [Http status codes](https://www.linkedin.com/feed/update/urn:li:activity:7017027658400063488?utm_source=share&utm_medium=member_desktop)
