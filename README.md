@@ -17,12 +17,17 @@ The directory contains app sub directories and a dataset for Sepsis :
 
 ### How to run the project:
 
-  1. Open the `Terminal`.
-  2. Clone the repository by entering `https://github.com/kwasiasomani/Machine-Learning-FastAPI`.
-  3. Ensure that `Python3` and `pip` are installed on the system.
-  4. Create a `virtualenv` by executing the following command: `virtualenv venv`.
-  6. Activate the `venv` virtual environment by executing the follwing command: `venv/Scripts/activate`.
-  7. Enter the cloned repository directory and execute `pip install -r requirements.txt`.
+ Install the required packages to be able to run the evaluation locally.
+
+You need to have [`Python 3`](https://www.python.org/) on your system (**a Python version lower than 3.10**). Then you can clone this repo and being at the repo's ``  follow the steps below:
+
+- Windows:
+        
+        python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+
+- Linux & MacOs:
+        
+        python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
 
 
 ### Dependencies
@@ -30,3 +35,14 @@ The directory contains app sub directories and a dataset for Sepsis :
 The following dependencies can be found in [requirements.txt](https://github.com/kwasiasomani/Machine-Learning-FastAPI/blob/main/src/requirements.txt):
 1. [pandas](https://pandas.pydata.org/)
 2. [Fastapi](https://fastapi.tiangolo.com/lo/)
+
+### RandomForest along with other models is used to build the model. The model is tested on various other models. Details summary to be added soon.
+### References
+
+#### 1. For Building machine learning model:
+1. https://medium.com/themlblog/splitting-csv-into-train-and-test-data-1407a063dd74
+2. https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
+3. https://medium.com/@robert.salgado/multiclass-text-classification-from-start-to-finish-f616a8642538
+4. https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
+5. https://www.districtdatalabs.com/text-analytics-with-yellowbrick
+
