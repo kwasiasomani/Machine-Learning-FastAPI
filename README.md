@@ -68,4 +68,4 @@ The following dependencies can be found in [requirements.txt](https://github.com
 
 - [KWASI ASOMANI](https://www.linkedin.com/in/kwasi-asomani-61574920b/)
 [![My Twitter Link](https://img.shields.io/twitter/follow/Asomani18?style=social)](https://twitter.com/Asomani18)
-
+[Medium](https://medium.com/@kwasiasomani85/early-detection-of-sepsis-with-machine-learning-models-using-fastapi-3bfe41bc14e)
