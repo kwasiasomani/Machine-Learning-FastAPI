@@ -1,6 +1,7 @@
 # Machine-Learning-FastAPI Sepsis 
 
 The early prediction of sepsis is potentially life-saving, and we challenge participants to predict sepsis 6 hours before the clinical prediction of sepsis.
+![image](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/f5473e29-d017-4b42-9ada-36da6c70ca6b)
 ![image](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/759c16c6-3e29-466b-9ce1-4ca96594d713)
 
 # Abstract
