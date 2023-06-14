@@ -8,6 +8,23 @@ Sepsis is a life-threatening condition with high mortality rates. Early detectio
 
 Sepsis occurs when chemicals released in the bloodstream to fight an infection trigger inflammation throughout the body. This can cause a cascade of changes that damage multiple organ systems, leading them to fail, sometimes even resulting in death.
 
+The data for this project is in a csv format. The following describes the columns present in the data.
+
+| Column Name | Target | Description                                                                   |
+| ----------- | ------ | ----------------------------------------------------------------------------- |
+| ID          | N/A    | Unique number to represent patient ID                                         |
+| PRG         | False  | Plasma glucose                                                                |
+| PL          | False  | Blood Work Result-1 (mu U/ml)                                                 |
+| PR          | False  | Blood Pressure (mm Hg)                                                        |
+| SK          | False  | Blood Work Result-2 (mm)                                                      |
+| TS          | False  | Blood Work Result-3 (mu U/ml)                                                 |
+| M11         | False  | Body mass index (weight in kg/(height in m)^2                                 |
+| BD2         | False  | Blood Work Result-4 (mu U/ml)                                                 |
+| Age         | False  | patients age (years)                                                          |
+| Insurance   | N/A    | If a patient holds a valid insurance card                                     |
+| Sepssis     | True   | Positive: if a patient in ICU will develop a sepsis , and Negative: otherwise |
+
+
 # Structure
 The directory contains app sub directories and a dataset for Sepsis :
 
