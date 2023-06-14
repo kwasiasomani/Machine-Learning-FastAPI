@@ -1,5 +1,6 @@
 # Machine-Learning-FastAPI Sepsis 
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@kwasiasomani85/early-detection-of-sepsis-with-machine-learning-models-using-fastapi-3bfe41bc14e)
+
 The early prediction of sepsis is potentially life-saving, and we challenge participants to predict sepsis 6 hours before the clinical prediction of sepsis.
 ![image](https://github.com/kwasiasomani/Machine-Learning-FastAPI/assets/119458164/759c16c6-3e29-466b-9ce1-4ca96594d713)
 
